@@ -1,1 +1,1 @@
-# BMI-calculator-
+# BMI-calculator using HTML, CSS AND JAVASCRIPT 
